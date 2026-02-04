@@ -15,12 +15,12 @@ Schreiben Sie ein Programm, welches Sie mit Ihrem Namen begrüsst.
 ## Aufgabe 02
 
 Schreiben Sie ein Programm, welches Sie mit Ihrem Name und Ihrem Alter begrüsst.
-
 - Der Name soll in der Variable `myname` gespeichert werden.
 - Das Alter wird in der Variable `myage` gespeichert.
 - Beide werden als **Kommandozeilen-Argumente** an das Programm übergeben.
 - Nutzen Sie den **Debug-Modus** falls nötig.
 - Erstellen Sie mehrere Commits.
+
 
 ## Aufgabe 03
 
